@@ -1,4 +1,4 @@
-package test.chatgpt;
+package chatgpt;
 
 public class ChatGPTTest {
     

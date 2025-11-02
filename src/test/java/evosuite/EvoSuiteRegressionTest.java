@@ -1,4 +1,4 @@
-package test.randoop;
+package evosuite;
 
 public class EvoSuiteRegressionTest {
     

@@ -1,4 +1,4 @@
-package test.evosuite;
+package evosuite;
 
 public class EvoSuiteTest {
     
