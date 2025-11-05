@@ -29,6 +29,7 @@ can find them.This shows how strong the tests are at finding real bugs.
 2.Randoop
 
 Now we can look over the strengths of Randoop
+
 Simplicity: One big benefit of using Randoop is the simplicity of generation test cases. It just needs a classpath and the specific classes you want to test. The generated 
 test cases are in standard JUnit files making it easier to do regression testing because you can save the output files for future testing.
 
