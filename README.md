@@ -1,10 +1,13 @@
 Assignment 4
 
 Marcos Benitez - MXB220120
+
 Xzavier Matthew Vera Cruz - XAV230000
+
 Sree Laasya Duddupudi - sxd230191
 
 1. EvoSuite
+   
 We will first look at EvoSuite
 
 Automated Test Generation: One of the major strengths of Evosuite is automated test generation. It automatically creates unit tests for all methods without extra effort from
@@ -37,6 +40,7 @@ cases that cover many possibilities that a human may overlook or not even consid
 
 
 3. ChatGPT
+   
 Strengths of ChatGPT-based Test Generation: 
 
 Readability: ChatGPT-based test generation has better readability and maintainability, because it can include comments about the code and ChatGPT can explain the code line
@@ -51,6 +55,7 @@ to ensure the quality and accuracy of the tests being generated.
 
 
 4. ChatGPT Test Case Generation
+   
 We used ChatGpt to create the test cases by first providing ChatGPT with the code that needed to be tested. Then we asked it to provide tests for all the methods and
 edge cases. From there we revised the prompt, as well as reviewed the generated tests to cover missing cases and be more accurate.
 
@@ -81,6 +86,7 @@ ChatGPT -  It generally has lower coverage, because it depends on human-written 
 
 
 6. Tool Preference
+   
 Overall, Evosuite is the preferred tool because it has the highest amount of coverage and robustness. While Randoop and ChatGPT have their benefits, Evosuite is able to
 create highly precise tests with high amounts of coverage. While ChatGPT has arguably more readability and has the ability to gain more contextual background because of
 its ability to take in human written prompts, ChatGPT needs a lot of human assistance, as it is prone to making buggy tests. The need for human assistance defeats the
