@@ -100,7 +100,10 @@ ChatGPT was the buggy nature, as well as the constant need for human validation 
 8. Coverage Table
 
                         Class                   Methods                Line              Branch
+
 Evosuite                100%                     100%                  94%                100%
+
 Randoop                  73%                      88%                  67%                100%
+
 ChatGPT                 100%                      88%                  73%                 80%
 
