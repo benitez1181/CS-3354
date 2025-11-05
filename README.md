@@ -67,25 +67,33 @@ Approach:
 
 EvoSuite -  It uses a search-based genetic algorithm to evolve tests for maximum coverage.
 
+
 Randoop -  It uses randomized test generation based on sequences of method calls.
 
+
 ChatGPT - It uses natural language to create human-readable tests based on understanding of the code logic.
+
 
 
 Generated Test Quality:
 
 EvoSuite -  It generates precise tests which have plenty of assertions but they may be a bit complex.
 
+
 Randoop -  It creates simple and fast tests but it often lacks assertions or logical validation.
+
 
 ChatGPT -  It generates readable tests but may miss edge cases or rely on human refinement.
 
 
 Coverage:
 
+
 EvoSuite-   It generally has the highest statement and branch coverage due to a hybrid optimization approach.
 
+
 Randoop-   It has moderate coverage depending on randomness and execution time.
+
 
 ChatGPT -  It generally has lower coverage, because it depends on human-written prompts and understanding.
 
